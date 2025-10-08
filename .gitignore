@@ -1,0 +1,37 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+/tmp/
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+node_modules/
+
+# Environment files
+.env
+.env.local
+*.key
+*.pem
+
+# Test coverage
+coverage/
+*.coverage
+.coverage.*
+
+# Grafana
+grafana.db
